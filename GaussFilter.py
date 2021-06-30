@@ -58,7 +58,8 @@ if __name__ == "__main__":
     # Dimension maxima por bloque
     dimension_por_bloque = 32
     
-    # Dimension de cuadrilla para "x" y "y"
+    # Dimension de cuadrilla para "x" y "y" 
+    # ceil nos devuelve un valor entero de la division obtenida.
     dim_grid_x = math.ceil(ancho / dimension_por_bloque)
     dim_grid_y = math.ceil(alto / dimension_por_bloque)
 
