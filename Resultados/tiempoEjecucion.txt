@@ -12,14 +12,14 @@ Tiempo con kernel 5, sigma: 4: 0.010261058807373047
 
 Resultados con CPU: 
 
-Tiempo con kernel 3, sigma: 1: 
-Tiempo con kernel 3, sigma: 2: 
+Tiempo con kernel 3, sigma: 1: 53.9986897
+Tiempo con kernel 3, sigma: 2: 55.4285579
 Tiempo con kernel 3, sigma: 3: 
 Tiempo con kernel 3, sigma: 4: 
 
-Tiempo con kernel 5, sigma: 1:
-Tiempo con kernel 5, sigma: 2: 
-Tiempo con kernel 5, sigma: 3: 
-Tiempo con kernel 5, sigma: 4: 
+Tiempo con kernel 5, sigma: 1: 131.5165657
+Tiempo con kernel 5, sigma: 2: 126.6120221
+Tiempo con kernel 5, sigma: 3: 124.44728640000001
+Tiempo con kernel 5, sigma: 4: 129.3982254 
 
 

@@ -95,7 +95,7 @@ if __name__ == "__main__":
         sys.exit("No se pudo cargar la imagen")
     
     # Generando gaussian kernel (size of N * N) #1234 35
-    kernel = 5
+    kernel = 3
     sigma = 4
     
     # Crear la matriz de salida con la misma forma y tipo que la matriz de entrada #
