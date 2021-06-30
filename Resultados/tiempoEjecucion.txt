@@ -1,0 +1,25 @@
+Resultados con GPU:
+
+Tiempo con kernel 3, sigma: 1: 0.008949041366577148
+Tiempo con kernel 3, sigma: 2: 0.00882101058959961
+Tiempo con kernel 3, sigma: 3: 0.008515119552612305
+Tiempo con kernel 3, sigma: 4: 0.008607149124145508
+
+Tiempo con kernel 5, sigma: 1: 0.009382963180541992
+Tiempo con kernel 5, sigma: 2: 0.009037017822265625
+Tiempo con kernel 5, sigma: 3: 0.008996963500976562
+Tiempo con kernel 5, sigma: 4: 0.010261058807373047
+
+Resultados con CPU: 
+
+Tiempo con kernel 3, sigma: 1: 
+Tiempo con kernel 3, sigma: 2: 
+Tiempo con kernel 3, sigma: 3: 
+Tiempo con kernel 3, sigma: 4: 
+
+Tiempo con kernel 5, sigma: 1:
+Tiempo con kernel 5, sigma: 2: 
+Tiempo con kernel 5, sigma: 3: 
+Tiempo con kernel 5, sigma: 4: 
+
+
